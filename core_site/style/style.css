@@ -1,0 +1,39 @@
+body{
+    background-image: url('../media/egyiptomihatter.jpg');
+}
+div.main{
+    margin: auto;
+    max-width: 800px;
+    background-color: #ddbd69;
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+    
+}
+h1{
+    text-align: center;
+    color: #a23313;
+}
+h2{
+    text-align: center;
+    color: #a23313;
+    border-top: 1px solid #a23313;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #a23313;
+}
+hr{
+    color: #a23313;
+}
+div.maintext p img#nilus{
+    float: right;
+    margin-left: 15px;
+    border:dashed 2px #e04a3f;
+}
+div.secondmaintext p img#karnak{
+    float: left;
+    border: dashed 2px #e04a3f;
+    margin-right: 15px;
+}
+a#menu:hover{
+    background-color: #61262b;
+}
